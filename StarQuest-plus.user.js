@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         StarQuest Enhancer
+// @name         StarQuest Plus
 // @namespace    
 // @version      0.2
-// @description  enter something useful
-// @author       Firewoker
+// @description  
+// @author       Firewauker
 // @match        http://*.starsquest.co.uk/*
 // @grant        GM_log
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @require http://code.jquery.com/jquery-latest.js
+// @require      http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
 
 
