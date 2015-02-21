@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         StarQuest Plus
 // @namespace    
-// @version      0.2
+// @version      0.21
 // @description  
 // @author       Firewauker
 // @match        http://*.starsquest.co.uk/*
@@ -9,6 +9,7 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @require      http://code.jquery.com/jquery-latest.js
+// @rerquire     defense.js
 // ==/UserScript==
 
 
