@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         StarQuest Plus
 // @namespace    
-// @version      0.21
+// @version      0.30
 // @description  
 // @author       Firewauker
 // @match        http://*.starsquest.co.uk/*
