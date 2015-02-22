@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         StarQuest Plus BETA
 // @namespace    
-// @version      0.31
+// @version      0.31.1
 // @description  
 // @author       Firewauker
 // @match        http://*.starsquest.co.uk/*
@@ -235,7 +235,7 @@ function insertTableAttack(attack){
 
 function createAttackTable(attack){
     var strBuilder = "<table><tr><th>Nom</th><th>Attack</th><th>Shield</th><th>Load</th><th>Units</th>";
-    strBuilder += "<th>TAttack</th><th>TShield</th><th>TArmor</th>";
+    strBuilder += "<th>TAttack</th><th>TShield</th><th>TLoad</th>";
     strBuilder += "</tr>";
     
     var TOTUnits = 0;
